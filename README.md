@@ -9,7 +9,7 @@ but I'm also eager to explore high-level development and create my own programs 
 **<This GitHub is where I’ll be tracking my progress and sharing what I learn along the way.>**
  
 ## 
-### 🧰 Languages and tools  
+### **🧰 Languages and tools**
   
   
 <img align="left" alt="Java" width="150px" style="padding-right:150px;" src="https://github.com/user-attachments/assets/339ba3cd-27bf-4b36-bbb9-2a0ed3c9eec5"/>  
@@ -20,10 +20,17 @@ but I'm also eager to explore high-level development and create my own programs 
       
 
 
-# Stats
-![Lord1000C's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lord1000C&show_icons=true&theme=dark)
+# 
+### **Stats**
+![Lord1000C's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lord1000C&show_icons=true&theme=dark)   
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lord1000C&layout=compact&theme=dark)
 
+#
 
-
+### **🎸 Hobbies & Interests**
+**<pre> 🎧 Music </pre>**
+**<pre> 🎮 Gaming (destiny 2) </pre>**
+**<pre> 💻 Fun coding </pre>**
+**<pre> 📚 Learning </pre>**
 
